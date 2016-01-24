@@ -1,5 +1,5 @@
 /**
- * App: TextBuddy by Prem(A0126219J) 
+ * App: TextBuddy by Rajendran Premkumar(A0126219J) 
  * 
  * Functions of TextBuddy are as follows: 
  *  1. add <string> : Will add string input into file.
